@@ -6,22 +6,22 @@
 
 // WiFi details
 
-//const char *ssid     = "ADM/PTC";
+//const char *ssid     = " / ";
 //const char *password = "";
 
-//const char *ssid     = "Steve Wozniak";
-//const char *password = "5eNTbbQe";
+//const char *ssid     = "   ";
+//const char *password = " ";
 
-//const char *ssid     = "Estoicos";
-//const char *password = "*Andromeda_$23";
+//const char *ssid     = " ";
+//const char *password = "* $23";
 
-//const char *ssid     = "IRT 2.4";
-//const char *password = "Irt*2022";
+//const char *ssid     = " ";
+//const char *password = "   ";
 
-const char *ssid     = "8Ainternet_F6A4";
-const char *password = "MPXbT5ghyR";
+const char *ssid     = "";
+const char *password = "";
 
-//const char *ssid     = "Alumnos";
+//const char *ssid     = " ";
 //const char *password = "";
 
 String RFID = "8900703";
