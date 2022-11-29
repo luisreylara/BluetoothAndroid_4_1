@@ -1,1 +1,1 @@
-## All dcs and images about the App
+## All docs and images about the App
